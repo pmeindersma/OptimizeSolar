@@ -31,7 +31,7 @@
         <mxCell id="eXZCC9MjRsluqyA0-eMw-31" value="Energy data collection" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
           <mxGeometry x="181" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eXZCC9MjRsluqyA0-eMw-32" value="MQTT" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+        <mxCell id="eXZCC9MjRsluqyA0-eMw-32" value="MQTT&lt;div&gt;message broker&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="181" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-34" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eXZCC9MjRsluqyA0-eMw-15" target="eXZCC9MjRsluqyA0-eMw-31">
@@ -134,7 +134,7 @@
         <mxCell id="eXZCC9MjRsluqyA0-eMw-59" value="Heatpump&lt;div&gt;control software&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="461" y="400" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eXZCC9MjRsluqyA0-eMw-60" value="&lt;div&gt;Easee&lt;/div&gt;&lt;div&gt;API&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+        <mxCell id="eXZCC9MjRsluqyA0-eMw-60" value="&lt;div&gt;Easee2Mqtt&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="581" y="400" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-62" value="P1 meter" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=device;" vertex="1" parent="1">
@@ -355,12 +355,12 @@
             <mxPoint x="760" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eXZCC9MjRsluqyA0-eMw-109" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eXZCC9MjRsluqyA0-eMw-104" target="eXZCC9MjRsluqyA0-eMw-32">
+        <mxCell id="eXZCC9MjRsluqyA0-eMw-109" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eXZCC9MjRsluqyA0-eMw-104" target="eXZCC9MjRsluqyA0-eMw-32">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="351" y="360" as="sourcePoint" />
-            <mxPoint x="511" y="360" as="targetPoint" />
+            <mxPoint x="320" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="531" y="310" />
+              <mxPoint x="520" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -378,6 +378,15 @@
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-116" value="&lt;div&gt;Modbus&lt;/div&gt;&lt;div&gt;TCP server&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=device;" vertex="1" parent="1">
           <mxGeometry x="270" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eXZCC9MjRsluqyA0-eMw-117" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eXZCC9MjRsluqyA0-eMw-60" target="eXZCC9MjRsluqyA0-eMw-32">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="400" as="sourcePoint" />
+            <mxPoint x="530" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
