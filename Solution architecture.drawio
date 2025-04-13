@@ -23,16 +23,16 @@
           <mxGeometry x="40" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-16" value="Measuring&lt;div&gt;sun energy&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="120" y="420" width="100" height="40" as="geometry" />
+          <mxGeometry x="240" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-17" value="Measuring&lt;div&gt;smart meter&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="120" y="360" width="100" height="40" as="geometry" />
+          <mxGeometry x="80" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-18" value="Measuring&lt;div&gt;heatpump&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="120" y="480" width="100" height="40" as="geometry" />
+          <mxGeometry x="400" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-19" value="Measuring&lt;div&gt;EV charger&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="120" y="540" width="100" height="40" as="geometry" />
+          <mxGeometry x="560" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-24" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eXZCC9MjRsluqyA0-eMw-15">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -86,19 +86,19 @@
           <mxGeometry x="520" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-42" value="Grafana" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="680" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-43" value="Smart&lt;div&gt;meter&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=device;" vertex="1" parent="1">
-          <mxGeometry x="414" y="560" width="100" height="40" as="geometry" />
+          <mxGeometry x="80" y="480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-44" value="DSMR&lt;div&gt;reader&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=device;" vertex="1" parent="1">
-          <mxGeometry x="280" y="560" width="100" height="40" as="geometry" />
+          <mxGeometry x="80" y="420" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-45" value="SolarEdge&lt;div&gt;SE7K&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=device;" vertex="1" parent="1">
-          <mxGeometry x="510" y="620" width="100" height="40" as="geometry" />
+          <mxGeometry x="240" y="480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-46" value="SDM630" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=device;" vertex="1" parent="1">
-          <mxGeometry x="380" y="620" width="100" height="40" as="geometry" />
+          <mxGeometry x="240" y="420" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-49" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eXZCC9MjRsluqyA0-eMw-31" target="eXZCC9MjRsluqyA0-eMw-36">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -131,12 +131,12 @@
             <mxPoint x="450" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eXZCC9MjRsluqyA0-eMw-54" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eXZCC9MjRsluqyA0-eMw-35" target="eXZCC9MjRsluqyA0-eMw-42">
+        <mxCell id="eXZCC9MjRsluqyA0-eMw-54" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eXZCC9MjRsluqyA0-eMw-35" target="eXZCC9MjRsluqyA0-eMw-42">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="290" y="390" as="sourcePoint" />
             <mxPoint x="450" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="310" />
+              <mxPoint x="580" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -149,13 +149,10 @@
             <mxPoint x="450" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eXZCC9MjRsluqyA0-eMw-57" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eXZCC9MjRsluqyA0-eMw-17" target="eXZCC9MjRsluqyA0-eMw-32">
+        <mxCell id="eXZCC9MjRsluqyA0-eMw-58" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eXZCC9MjRsluqyA0-eMw-42" target="eXZCC9MjRsluqyA0-eMw-41">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="290" y="390" as="sourcePoint" />
-            <mxPoint x="450" y="390" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="240" y="380" />
-            </Array>
+            <mxPoint x="290" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
