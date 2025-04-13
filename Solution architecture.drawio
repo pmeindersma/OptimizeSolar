@@ -10,14 +10,8 @@
         <mxCell id="eXZCC9MjRsluqyA0-eMw-2" value="Home Energy Management" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
           <mxGeometry x="21" y="80" width="760" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXZCC9MjRsluqyA0-eMw-3" value="CO2 footprint&lt;div&gt;reduction&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=oct;" vertex="1" parent="1">
-          <mxGeometry x="421" y="20" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eXZCC9MjRsluqyA0-eMw-6" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eXZCC9MjRsluqyA0-eMw-2" target="eXZCC9MjRsluqyA0-eMw-27">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="311" y="310" as="sourcePoint" />
-            <mxPoint x="471" y="310" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="eXZCC9MjRsluqyA0-eMw-3" value="Self consumption&lt;div&gt;improvement&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="485.5" y="20" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-15" value="Energy&lt;div&gt;measuring&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
           <mxGeometry x="21" y="150" width="120" height="40" as="geometry" />
@@ -35,13 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-27" value="Energy costs saving" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=oct;" vertex="1" parent="1">
-          <mxGeometry x="281" y="20" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eXZCC9MjRsluqyA0-eMw-28" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eXZCC9MjRsluqyA0-eMw-2" target="eXZCC9MjRsluqyA0-eMw-3">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="351" y="90" as="sourcePoint" />
-            <mxPoint x="301" y="70" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="245.5" y="20" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXZCC9MjRsluqyA0-eMw-31" value="Energy data collection" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
           <mxGeometry x="181" y="150" width="120" height="40" as="geometry" />
@@ -387,6 +375,9 @@
             <mxPoint x="370" y="580" as="sourcePoint" />
             <mxPoint x="570" y="620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eXZCC9MjRsluqyA0-eMw-115" value="CO2 footprint&lt;div&gt;reduction&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="20" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
